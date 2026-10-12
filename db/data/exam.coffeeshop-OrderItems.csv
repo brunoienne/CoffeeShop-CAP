@@ -1,0 +1,5 @@
+ID,coffeeName,size,price,quantity,Order_ID
+6d2f9a10-1b63-4c8d-a7f1-5e93b4c2d801,Espresso,Small,3.50,1,3f0c9d7e-6a51-4f18-9a4e-8e1b2f6d0c41
+91b7e3d4-5c2a-4f69-8d1e-2a6c9b0f7e13,Cappuccino,Medium,4.50,2,3f0c9d7e-6a51-4f18-9a4e-8e1b2f6d0c41
+c7e1a9f2-8d44-4b1a-b3e7-9f2c6d0a5b84,Latte Macchiato,Large,5.00,1,b2a4f8c1-97de-4b5f-83a7-1f0d6e9c3a72
+d4b8c1e7-2f95-4a6d-9e3c-7a1f0b5d6c29,Americano,Medium,2.80,1,b2a4f8c1-97de-4b5f-83a7-1f0d6e9c3a72
